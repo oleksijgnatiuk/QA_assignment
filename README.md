@@ -23,4 +23,4 @@ For the GitHub personal access token, the following scopes are required `public_
 
 ## HTML Report
 * After successful test execution, the Serenity report could be reached from the following location: 
-  `\target\site\serenity\index.html`"# QA_assignment" 
+  `\target\site\serenity\index.html`
